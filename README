@@ -8,7 +8,7 @@ This project demonstrates how to use the **ResNet50 pretrained model** from Kera
 
 ---
 
-## 📦 Features
+## Features
 
 - Load and use a pretrained ResNet50 model with weights trained on ImageNet
 - Predict image classes with a simple Python script
